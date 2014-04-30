@@ -16,3 +16,4 @@ The script adds filtering of the result matrix in the Portfolio tool:
 The filters are available as "User Script Commands" in the GreaseMonkey menu.
 
 [Install the user script](https://github.com/hansfn/greasemonkey/raw/master/fronter-portfolio-filter.user.js)
+or [view a demonstration (in Norwegian)](https://www.youtube.com/watch?v=sVFqL8UpkTQ).
