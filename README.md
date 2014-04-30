@@ -3,7 +3,7 @@ greasemonkey
 
 Collection of (hacky, badly written) GreaseMonkey scripts.
 
-== Fronter Portfolio Filter == 
+## Fronter Portfolio Filter
 
 For users of the LMS [Fronter](http://com.fronter.info/).
 
