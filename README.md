@@ -1,7 +1,7 @@
 greasemonkey
 ============
 
-Collection of (hacky, badly written) GreaseMonkey scripts.
+Collection of (hacky, badly written) [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) scripts.
 
 ## Fronter Portfolio Filter
 
