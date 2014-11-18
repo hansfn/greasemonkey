@@ -11,6 +11,7 @@ The script adds filtering of the result matrix in the Portfolio tool:
 
 * Show only users with all exercises approved.
 * Show only users with some exercises not-approved (or missing).
+* Show only users with at least one exercise approved.
 * Hide results - only display names.
 
 The filters are available as "User Script Commands" in the GreaseMonkey menu.
